@@ -15,7 +15,8 @@
   "additionalDashboardUsers": {
     "users": []
   },
-  "tutorialProject": false,
+  "tutorialProject": true,
+  "tutorialId": "TUT_TS_ANALYSIS",
   "settings": {
     "flowAnchorSourcesAndSinks": true,
     "flowDisplaySettings": {
@@ -137,7 +138,8 @@
     },
     "dkuProperties": []
   },
-  "name": "Time Series Analysis",
+  "name": "Time Series Analysis for boussacfadini",
+  "projectStatus": "Sandbox",
   "imgPattern": 7,
   "showInitials": false,
   "metrics": {

@@ -1,0 +1,38 @@
+{
+  "checklists": {
+    "checklists": []
+  },
+  "creationTag": {
+    "lastModifiedBy": {
+      "login": "mope"
+    },
+    "lastModifiedOn": 1654014611665,
+    "versionNumber": 0
+  },
+  "customFields": {},
+  "listed": true,
+  "name": "Time Series Forecasting (Starter)'s default dashboard",
+  "owner": "mope",
+  "pages": [
+    {
+      "enableCrossFilters": true,
+      "filtersParams": {
+        "panelPosition": "TOP"
+      },
+      "grid": {
+        "tiles": []
+      },
+      "id": "dTPQ0qo",
+      "showTitle": false
+    }
+  ],
+  "showGrid": true,
+  "tags": [],
+  "versionTag": {
+    "lastModifiedBy": {
+      "login": "mope"
+    },
+    "lastModifiedOn": 1654014611665,
+    "versionNumber": 0
+  }
+}

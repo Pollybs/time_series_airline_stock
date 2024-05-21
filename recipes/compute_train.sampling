@@ -1,0 +1,29 @@
+{
+  "uiData": {
+    "mode": "\u0026\u0026",
+    "$latestOperator": "\u0026\u0026",
+    "$filterOptions": "rules",
+    "conditions": [
+      {
+        "date": "2022-01-01",
+        "input": "Date",
+        "col": "Ticker",
+        "num": 0,
+        "appliesTo": "value",
+        "label": "Is before date",
+        "time": "00:00",
+        "operator": "\u003c  [date]"
+      }
+    ]
+  },
+  "expression": "Date \u003e\u003d \"2022-01-01\"",
+  "$status": {
+    "validated": true,
+    "fullyTranslated": true,
+    "ok": true,
+    "message": "Incorrect formula: \u0027Date \u003e\u003d \u0027 : Expecting something more at end of expression(Parsing error at offset 8)",
+    "sql": "\"Date\" \u003e\u003d \u00272022-01-01\u0027"
+  },
+  "distinct": false,
+  "enabled": true
+}

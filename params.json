@@ -206,7 +206,7 @@
     "extendedProperties": {}
   },
   "description": "# Welcome to the Time Series Analysis Tutorial\n\n\u003cp class\u003d\"text-center\"\u003e\n   \u003ca href\u003d\"https://academy.dataiku.com/time-series-basics-1\" target\u003d\"_blank\" class\u003d\"btn btn-datasets-color btn-cta-big-mod\"\u003e\u003ci class\u003d\"icon-dku-sample_project\" class\u003d\"btn-cta-big-mod-icon\" /\u003e\u0026nbsp;Go to the Course on Dataiku Academy\n  \u003c/a\u003e\n\u003c/p\u003e\n\nIn this tutorial, you will perform statistical analyses using airline stock data. \n\nThis project supports the time series analysis tutorial found in the [Knowledge Base](https://knowledge.dataiku.com/latest/ml-analytics/time-series/forecasting/tutorial-index.html). It is also included in the [Time Series Analysis \u0026 Forecasting](https://academy.dataiku.com/time-series-basics-1) course.",
-  "shortDesc": "Learn how to perform statistical analyses on time series data in this [tutorial](https://knowledge.dataiku.com/latest/ml-analytics/time-series/analysis/tutorial-index.html).",
+  "shortDesc": "Statistical analyses on time series data in this [tutorial](https://knowledge.dataiku.com/latest/ml-analytics/time-series/analysis/tutorial-index.html).",
   "tags": [
     "academy",
     "downloads",
